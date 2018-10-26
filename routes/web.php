@@ -11,7 +11,7 @@
 |
 */
 Route::get('/', function () {
-    return view('index');
+    return view('parent');
 });
 Route::get('/signup', function(){
 	return view('signup');

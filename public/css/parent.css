@@ -1,0 +1,48 @@
+nav{
+	display: inline-flex;
+	justify-content: space-between;
+	background: rgb(53, 145, 204);
+}
+nav img{
+	width: 10vh;
+	height: 10vh;
+}
+.container{
+	margin-top:12vh; 
+	height: 100%;
+	background-color:rgb(230, 230, 255);
+}
+.container h1{
+	text-align: center;
+	color: rgb(53, 145, 204);
+	margin-top:5vh;
+	margin-bottom:5vh;
+	font-size: 10vh;  
+}
+.container button{
+	float: right;
+	right: 3vh;
+	margin-bottom:5vh; 
+}
+th{
+	color: rgb(53, 145, 204);
+}
+.dropdown-toggle{
+	border: 5px solid white;
+	border-radius: 50%;
+}
+.dropdown-toggle:hover{
+	cursor: pointer;
+}
+.setkid:hover{
+	cursor: pointer;
+}
+input[type="radio"]{
+	margin-left:5vh;
+}
+.setquiz:hover{
+	cursor: pointer;
+}
+.delete:hover{
+	cursor: pointer;
+}

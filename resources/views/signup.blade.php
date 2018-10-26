@@ -19,7 +19,7 @@
                             <img src="{{asset('images/LOGO.png')}}">
                         </div>
                         <div class="col-md-12">
-                            <h5>Registration</h5>
+                            <h5>Inscription/h5>
                             <form action="" method="POST" class="registration">
                                 <div class="form-group col-md-12 ">
                                     <input type="text" class="form-control" id="first_name" name="first_name" required placeholder="First name">
@@ -37,7 +37,7 @@
                                     <input type="password" class="form-control" id="validatePassword" name="validatePassword" required placeholder="Validate your password">
                                 </div>
                                 <div class="form-group">
-                                    <button type="submit" id="submit-btn" class="btn btn-default btn-block">Create Account</button>
+                                    <button type="submit" id="submit-btn" class="btn btn-default btn-block">Créer un compte</button>
                                 </div>
                             </form>
                         </div>
