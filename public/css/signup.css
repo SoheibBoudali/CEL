@@ -1,0 +1,33 @@
+.container-fluid{
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height: 800px;
+}
+#signup-logo{
+	margin-top: 10vh; 
+}
+#signup-logo img{
+	width: 15vw;
+	height: 15vw;
+	display: block;
+	margin: auto;
+}
+.registration{
+	display: block;
+	margin: auto;
+	width: 60%;
+}
+h5{
+	font-size: 3vw;
+	text-align: center;
+	color: white;
+	margin-bottom: 2vh;
+}
+button{
+	display: block;
+	margin: auto;
+	background-color: rgb(53, 145, 204);
+	color: white;
+	width: 10vw;
+	margin-top: 2vh;
+}
